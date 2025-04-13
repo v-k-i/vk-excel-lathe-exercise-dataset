@@ -1,0 +1,13 @@
+BlankSKU;Material;Length;Diameter;Cost
+B0001;Stainless steel;600;30;$80
+B0002;Stainless steel;600;60;$260
+B0003;Stainless steel;300;30;$40
+B0004;Stainless steel;300;60;$20
+B0005;Tool steel;600;30;$32
+B0006;Tool steel;300;30;$16
+B0007;Tool steel;600;60;$72
+B0008;Tool steel;300;60;$36
+B0009;Bronze;600;30;$20
+B0010;Bronze;300;30;$10
+B0011;Bronze;600;60;$68
+B0012;Bronze;300;60;$35
